@@ -2,3 +2,6 @@
 env/
 notepad.txt
 /thumbnails
+output-spotify-api-portal.txt
+output-spotipy.search.txt
+output-requests.txt
